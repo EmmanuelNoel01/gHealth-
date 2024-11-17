@@ -100,6 +100,7 @@
         <br>
         <div class="patient-info">
             <div>Martin Ssembuze</div>
+            <div>241111-01</div>
             <button>Ongoing</button>
             <button>Ongoing</button>
             <button>Ongoing</button>
