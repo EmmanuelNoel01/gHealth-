@@ -95,17 +95,20 @@
             <button class="btn" onclick="searchPatient()">Find Patient</button>
             <button class="btn" onclick="window.location.href='view-visits.html'">View Visits</button>
         </div>
+        <br>
         <div class="form-group1">
             <label for="patient-number">Enter Patient Number</label>
+            <br>
             <input type="text" id="patient-number" placeholder="Enter Patient Number">
         </div>
-        <div class="form-group1">
+        <br>
+        <!-- <div class="form-group1">
             <label for="patient-number">OR</label>
-        </div>
-        <div class="form-group1">
+        </div> -->
+        <!-- <div class="form-group1">
             <label for="patient-name">Enter Patient Name</label>
             <input type="text" id="patient-name" placeholder="Enter Patient Name">
-        </div>
+        </div> -->
         <button class="btn" onclick="searchPatient()">Search</button>
         <br>
         <br>
